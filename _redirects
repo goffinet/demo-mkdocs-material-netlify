@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://ci-cd.netlify.com/* https://ci-cd.goffinet.org/:splat 301!
