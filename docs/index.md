@@ -1,4 +1,4 @@
-# Apprendre le développement continu avec des générateurs de site statique
+# Apprendre le déploiement continu avec des générateurs de site statique
 
 https://github.com/goffinet/demo-mkdocs-material/
 

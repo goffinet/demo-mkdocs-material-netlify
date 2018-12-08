@@ -41,3 +41,4 @@ Installez sur votre machine locale le logiciel [Git](https://git-scm.com/book/en
 * [Learn Git](https://try.github.io/)
 * https://github.com/GitbookIO/git/blob/master/fr/SUMMARY.md
 * https://www.gitbook.com/book/gitbookio/progit/details
+* [Livre Git](https://git-scm.com/book/fr/v2)
